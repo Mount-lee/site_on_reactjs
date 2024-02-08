@@ -1,0 +1,16 @@
+ul li {
+    float: left;
+    color: white;
+    margin-right: 3%;
+    margin-top: 0.6%;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+
+div .red_line {
+    background-color: #F54932;
+    height: 36px;
+    width: 100%;
+}

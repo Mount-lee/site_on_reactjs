@@ -1,0 +1,16 @@
+footer {
+    background-color: #E9DED4;
+    display: flex;
+    min-height: 120px;
+    text-align: left;
+    align-items: center;
+}
+
+footer span {
+    color: #313131;
+    margin-left: 5%;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    opacity: 60%;
+}

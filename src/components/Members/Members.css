@@ -1,0 +1,42 @@
+.Members h1 {
+    width: 38%;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-left: 5%;
+    font-size: 43px;
+    color: #313131;
+    margin-top: 42%;
+}
+
+.Members .slide {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}
+
+.Members .slide .more {
+    color: #3057A2;
+    border: 1px solid #3057A2;
+    background-color: #fff;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+.Members .slide .more:hover {
+    color: black;
+    background-color: wheat;
+}
+
+.Members .slide span {
+    font-weight: bolder;
+    font-size: 19px;
+}
+
+.Members .slide img {
+    width: 55%;
+    margin-left: 5%;
+}
+
+.Members .slide p {
+    opacity: 60%;
+}

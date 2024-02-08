@@ -1,0 +1,64 @@
+.Next_step h1 {
+    width: 38%;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-top: 20%;
+    margin-left: 5%;
+    font-size: 43px;
+    color: #313131;
+}
+
+.Next_step div {
+    display: flex;
+    background-color: burlywood;
+    align-items: center;
+    padding-left: 6%;
+}
+
+.Next_step .first, .fourth, .sixth {
+    min-width: 17%;
+    min-height: 118px;
+    float: left;
+    margin-top: 2%;
+    margin-left: 5%;
+    z-index: 1;
+}
+
+.Next_step .second, .fifth {
+    min-width: 17%;
+    min-height: 118px;
+    float: left;
+    margin-top: 2%;
+    margin-left: 2%;
+    z-index: 1;
+}
+
+.Next_step .third {
+    float: right;
+    min-width: 17%;
+    min-height: 268px;
+    margin-top: 1.8%;
+    margin-right: 22%;
+    z-index: 1;
+}
+
+
+.Next_step .seventh {
+    float: right;
+    min-height: 118px;
+    min-width: 42%;
+    margin-top: 2%;
+    margin-right: 22%;
+    z-index: 1;
+}
+
+/* .none .plane {
+    width: 25%;
+    margin-right: 19%;
+    z-index: 2;
+    margin-left: 55%;
+}
+
+.Next_step .none {
+    background-color: #fff;
+} */

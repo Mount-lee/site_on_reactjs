@@ -1,0 +1,67 @@
+header {
+    background-image: linear-gradient(to top, #E9DED4, #E9DED4), url('/image_23.png');
+    background-blend-mode: overlay;
+    height: 700px;
+}
+
+
+header h1 {
+    width: 38%;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-top: 8%;
+    margin-left: 5%;
+    font-size: 43px;
+    color: #313131;
+}
+
+header img {
+    margin-left: 5%;
+    padding-top: 2%;
+}
+
+.head_center {
+    text-align: center;
+}
+
+.intro {
+    width: 26%;
+    text-align: center;
+    float: left;
+    margin-left: 5%;
+}
+
+header .but_1 {
+    float: left;
+    background-color: #1F1F1F;
+    border: 2px solid #1F1F1F;
+    color: white;
+    border-radius: 66px;
+    width: 13%;
+    height: 7%;
+    margin-left: 5%;
+    font-size: 13px;
+}
+
+header .but_2 {
+    float: left;
+    background-color: inherit;
+    color:black;
+    border-radius: 66px;
+    border: 2px solid #1F1F1F;
+    width: 13%;
+    height: 7%;
+    margin-left: 1%;
+    font-size: 13px;
+}
+
+header .but_1:hover {
+    background-color: #FBCE51;
+    color: black;
+}
+
+header .but_2:hover {
+    background-color: #1F1F1F;
+    border: 2px solid #1F1F1F;
+    color: white;
+}
