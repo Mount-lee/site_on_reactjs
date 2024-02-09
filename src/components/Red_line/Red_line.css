@@ -8,9 +8,24 @@ ul li {
     font-size: 13px;
 }
 
+@media (max-width: 1360px) {
+    ul li {
+        float: none;
+        display: inline;
+        color: white;
+        margin-right: 3%;
+        font-size: 15px;
+    }
+}
 
 div .red_line {
     background-color: #F54932;
     height: 36px;
     width: 100%;
+}
+
+@media (max-width: 1168px) {
+    div .red_line {
+        height: 24px;
+    }
 }

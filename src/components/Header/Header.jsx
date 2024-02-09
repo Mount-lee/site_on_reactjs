@@ -11,6 +11,10 @@ export default function Header() {
             <br />
             <br />
             <br />
+            <br />
+            <br />
+            <br />
+            <br />
             <button className='but_1'>Поддержать <br /> шахматную мысль</button>
             <button className='but_2'>Подробнее <br /> о турнире</button>
 

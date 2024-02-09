@@ -43,6 +43,13 @@ header .but_1 {
     font-size: 13px;
 }
 
+@media (max-width: 1168px) {
+    header .but_1 {
+        width: 16%;
+        height: 9%;
+    }
+}
+
 header .but_2 {
     float: left;
     background-color: inherit;
@@ -53,6 +60,13 @@ header .but_2 {
     height: 7%;
     margin-left: 1%;
     font-size: 13px;
+}
+
+@media (max-width: 1168px) {
+    header .but_2 {
+        width: 16%;
+        height: 9%;
+    }
 }
 
 header .but_1:hover {
