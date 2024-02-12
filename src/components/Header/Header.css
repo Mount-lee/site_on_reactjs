@@ -1,5 +1,7 @@
 header {
     background-image: linear-gradient(to top, #E9DED4, #E9DED4), url('/image_23.png');
+    background-image: url('/main.png');
+    background-size: 100%;
     background-blend-mode: overlay;
     height: 700px;
 }
